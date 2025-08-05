@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
 
-poor_syntax = 2 * #
+# Multiply two numbers
+result = 2 * 3
+print(result)
+
